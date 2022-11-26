@@ -1,0 +1,48 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background-color: #8ecae6;
+   
+}
+.main2{
+    background-color: #219ebc;
+    color: white;
+    border-radius: 10px 10px;
+    box-shadow: 5px 5px 3px #023047;
+    margin: 7px;
+}
+.btn{
+    background-color: #219ebc !important;
+    color: white; 
+}
+.btn1{
+    background-color: #8ecae6 !important;
+    color: white;
+    
+}
+.heading{
+    color: white;
+    background-color: #023047;
+    
+}
+#todoList, #gettodo{
+    list-style: none;
+}
+.space{
+    margin: 20px;
+}
+.logoutbtn{
+    background-color: #023047 !important;
+    color: white; 
+}
+#btn, #btn1, #btn2{
+   font-weight: bolder;
+   color: white;
+   background-color: green;
+   border: none;
+   font-size: medium;
+}
